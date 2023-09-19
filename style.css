@@ -11,6 +11,17 @@
       margin-top: 15%;
       margin-left: 50%;
    }
+   #seta {
+      margin-bottom: 3%;
+      background-color: rgb(238, 20, 20);
+      padding: 0.5% 0.9% 0.5% 0.9%;
+      border-radius: 100%;
+      box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
+      color: white;
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 40%;
+      text-decoration: none;
+   }
 
    @font-face {
       font-family: 'lilita';
